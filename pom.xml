@@ -6,7 +6,11 @@
   <name>Monster project</name>
   <description>An application for Monster project</description>
    <dependencies>
-
+	<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>2.53.0</version>
+	</dependency>
   <dependency>
 	<groupId>org.testng</groupId>
 	<artifactId>testng</artifactId>
