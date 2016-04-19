@@ -3,8 +3,8 @@
   <groupId>com.sqa.ms</groupId>
   <artifactId>firstproject2</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Basic project</name>
-  <description>An application for first project2</description>
+  <name>Monster project</name>
+  <description>An application for Monster project</description>
    <dependencies>
 
   <dependency>
